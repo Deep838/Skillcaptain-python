@@ -6,6 +6,6 @@ capitals = {'USA':'Washington DC',
 capitals.update({'germany':'Berlin'})
 capitals.pop('China')
 capitals.update({'USA':'New York'})
-print(capitals.get('Russia'))
+print('Russia' in capitals)
 
 print(capitals.keys())

@@ -6,7 +6,7 @@ class Product:
     def __init__(self, name, price, quantity):
         self.name = name
         self.price = int(price)
-        self.quantity = iquantity
+        self.quantity = int(quantity)
 
 #4. product's info
     def product_info(self):

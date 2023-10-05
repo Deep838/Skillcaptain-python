@@ -1,0 +1,7 @@
+Hatchback
+Sedan
+MPV
+SUV
+Crossover
+Coupe
+Convertible
